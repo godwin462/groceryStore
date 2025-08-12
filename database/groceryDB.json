@@ -1,0 +1,133 @@
+[
+  {
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": "1000.00",
+    "quantity": "5 packs",
+    "totalPrice": "5000.00",
+    "isAvailable": true
+  },
+  {
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "5 packs",
+    "id": "4f5cdfc4-5a2d-4642-ac33-d830fc7ce8fc"
+  },
+  {
+    "id": "92bdbb11-46ba-4312-8755-08ebbd91ff4c",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "5 packs",
+    "totalPrice": 5000,
+    "isAvailable": true
+  },
+  {
+    "id": "4b2d4613-3b9e-4555-961f-a16b14754101",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "0 packs",
+    "totalPrice": 0,
+    "isAvailable": false
+  },
+  {
+    "id": "d830ac95-028e-410c-85a8-603ef8e3c81b",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "0 packs",
+    "totalPrice": 1000,
+    "isAvailable": true
+  },
+  {
+    "id": "8221442c-e7d3-4dae-bc22-8b66f1467573",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "0 packs",
+    "totalPrice": 0,
+    "isAvailable": false
+  },
+  {
+    "id": "79e45557-3644-4904-bb2b-ec7591adab7f",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "10 packs",
+    "totalPrice": 10000,
+    "isAvailable": true
+  },
+  {
+    "id": "ce0b4193-fb33-4b5e-9e1a-4e6582f7cadf",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "10 packs",
+    "isAvailable": false
+  },
+  {
+    "id": "48ade66a-8559-421f-b188-f53cc7183e20",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "10 packs",
+    "totalPrice": 10000,
+    "isAvailable": true
+  },
+  {
+    "id": "32e65c57-1ac0-4280-be09-cecc94136875",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "10 packs",
+    "totalPrice": "10000.00",
+    "isAvailable": true
+  },
+  {
+    "id": "a3959eeb-bcc6-4b88-a2c4-f9508aa0931a",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "10 packs",
+    "totalPrice": 10000,
+    "isAvailable": true
+  },
+  {
+    "id": "bf93d3be-cca4-4f96-9671-02ff9238fe33",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "10 packs",
+    "totalPrice": 10000,
+    "isAvailable": true
+  },
+  {
+    "id": "d39cb3bf-3b4a-47f3-888d-bcd63899477e",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "10 packs",
+    "totalPrice": 10000,
+    "isAvailable": true
+  },
+  {
+    "id": "cd5be812-fdff-417f-ae98-d9f3061cf3df",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "10 packs",
+    "totalPrice": "10000.00",
+    "isAvailable": true
+  },
+  {
+    "id": "f33e96d5-4dac-49b6-83ce-d0f484902d72",
+    "storeName": "nameOfStore",
+    "goods": "nameOfGoods",
+    "unitPrice": 1000,
+    "quantity": "0 packs",
+    "totalPrice": "0.00",
+    "isAvailable": false
+  }
+]
