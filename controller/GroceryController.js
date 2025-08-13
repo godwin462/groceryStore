@@ -88,6 +88,7 @@ const updateGrocery = (req, res) => {
     const {id} = req.params;
     const {storeName, goods, unitPrice, quantity} = req.body;
     let updatedGrocery = null;
+    const totalPrice = calculatePrice(unitPrice, quantity);
     const newGroceryDB = groceryDB.map((grocery) => {
         if(grocery.id === id) {
             updatedGrocery = {
@@ -95,6 +96,7 @@ const updateGrocery = (req, res) => {
                 goods: goods || grocery.goods,
                 unitPrice: unitPrice || grocery.unitPrice,
                 quantity: quantity || grocery.quantity,
+                totalPrice,
                 id
             };
             return updatedGrocery;
